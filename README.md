@@ -12,18 +12,18 @@
         Me chamo Agnaldo Bispo de Alcântara, tenho 21 anos e atualmente moro em Aracaju, Sergipe. Sou natural do Guarujá, São Paulo, e concluí o ensino médio no CEJRL, em Sergipe. Atualmente, curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe (IFS). Sou apaixonado por tecnologia e sempre busco aprender mais sobre essa área.
       </p>
       <p>
-        <a href="https://github.com/Agnaldo-alcantara07?tab=followers">
+        <a href="https://github.com/AgnaldoAlcantara?tab=followers">
           <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Agnaldo-alcantara07?color=%23E05D44&labelColor=%23E05D44&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/AgnaldoAlcantara?color=%23E05D44&labelColor=%23E05D44&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
           />
         </a>
-        <a href="https://github.com/Agnaldo-alcantara07?tab=repositories">
+        <a href="https://github.com/AgnaldoAlcantara?tab=repositories">
           <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Agnaldo-alcantara07?color=236ad3&style=for-the-badge&labelColor=236ad3&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/AgnaldoAlcantara?color=236ad3&style=for-the-badge&labelColor=236ad3&logo=star&label=estrelas"
           />
         </a>
       </p>
@@ -43,9 +43,9 @@
 
 <div>
         <picture align="center">
-            <source media="(prefers-color-scheme: dark)"            srcset="https://raw.githubusercontent.com/Agnaldo-alcantara07/Agnaldo-alcantara07/output/github-contribution-grid-snake-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agnaldo-alcantara07/Agnaldo-alcantara07/output/github-contribution-grid-snake-dark.svg">
-            <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Agnaldo-alcantara07/Agnaldo-alcantara07/output/github-contribution-grid-snake.svg">
+            <source media="(prefers-color-scheme: dark)"            srcset="https://raw.githubusercontent.com/AgnaldoAlcantara/AgnaldoAlcantara/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgnaldoAlcantara/AgnaldoAlcantara/output/github-contribution-grid-snake-dark.svg">
+            <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AgnaldoAlcantara/AgnaldoAlcantara/output/github-contribution-grid-snake.svg">
         </picture>
 </div>
 
@@ -138,7 +138,7 @@
     alt="GitHub Stats" 
     height="200" 
     width="45%"
-    src="https://github-readme-stats.vercel.app/api?username=Agnaldo-alcantara07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=AgnaldoAlcantara&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
 <p>
@@ -147,7 +147,7 @@
       alt="GitHub Stats" 
       height="200"
       width="45%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnaldo-alcantara07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoAlcantara&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
