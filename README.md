@@ -159,12 +159,30 @@
     />
     <img 
         align="left" 
-        alt="CSS" 
-        title="CSS"
+        alt="ANGULAR JS" 
+        title="ANGULAR JS"
         width="30px" 
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" 
     />
+    <img 
+        align="left" 
+        alt="REACT" 
+        title="REACT"
+        width="30px" 
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    />
+    <img 
+        align="left" 
+        alt="REACT-NATIVE" 
+        title="REACT-NATIVE"
+        width="30px" 
+        style="padding-right: 10px;"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
+    />
+  
+          
 </div>
 
 
